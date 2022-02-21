@@ -1,0 +1,18 @@
+body {
+  padding: 30px 10px;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+footer {
+  padding: 10px 0px;
+  color: #0ccac4;
+}
